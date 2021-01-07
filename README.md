@@ -24,7 +24,7 @@ The training code is availabe in Model file along with tranined weigths or you c
 
 
 
-The experiment showed that vgg16 acheived 0.9055 accuracy on the provied dataset
+The experiment showed that vgg16 acheived 0.9055 accuracy on the provided dataset
 
 ![alt text](https://github.com/HasanAli55/CS-867-Assignment3/blob/main/Capture.PNG?raw=true)
 
